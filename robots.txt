@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://pradeep-3378.github.io/Fitness-Ever/sitemap.xml
